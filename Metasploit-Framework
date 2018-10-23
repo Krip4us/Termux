@@ -1,0 +1,23 @@
+NO SE NECESITA SER ROOT DEL SISTEMA----
+######################################
+
+STEP 1:
+pkg upgrade
+
+STEP 2:
+pkg install curl
+
+STEP 3:
+curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
+
+STEP 4:
+chmod 777 metasploit.sh
+
+STEP 5:
+./metasploit.sh
+
+STEP 6:
+cd metasploit-framework
+
+STEP 7:
+./msfconsole
