@@ -1,0 +1,7 @@
+INSTALL KALI LINUX
+
+STEP 1:
+pkg install wget proot -y && wget https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/Installer/Kali/kali.sh && bash kali.sh
+
+STEP 2:
+./start-kali.sh
